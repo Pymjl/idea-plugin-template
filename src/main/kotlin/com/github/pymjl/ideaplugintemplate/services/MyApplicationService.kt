@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pymjl.ideaplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pymjl.ideaplugintemplate.MyBundle
 
 class MyApplicationService {
 
